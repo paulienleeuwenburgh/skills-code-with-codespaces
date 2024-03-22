@@ -1,4 +1,4 @@
-<header>
+<h1>Hello from the codespace!</h1>
 
 <!--
   <<< Author notes: Course header >>>
